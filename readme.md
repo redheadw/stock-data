@@ -7,7 +7,7 @@ I downloaded the following dataset from Kaggle.com https://www.kaggle.com/datase
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://youtu.be/g6WJk3f8o5I)
 
 # Data Analysis Results
 1) What it the average closing price each year for each dataset.
